@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Undergraduate Institution",
+    "organisation": "Burapha University (Computer Science)",
+    "startDate": "Jul., 2021",
+    "endDate": "Jun., 2025",
+    "experiences": ["Bachelor of Science", "(Computer Science)"],
+    "imageSrc": "history/10.png"
+  },
+  {
+    "role": "Internship (4 months)",
+    "organisation": "IRPC Company (System Analyst)",
+    "startDate": "Nov., 2024",
+    "endDate": "Mar., 2025",
+    "experiences": ["Gathered user requirements1", "designed UI wireframes", "prepared user manuals","mapped functional specifications across 4 in-house software systems"],
+    "imageSrc": "history/9.png"
+  }
+  
+]
