@@ -16,15 +16,35 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
+    "title": "MS Office",
     "imageSrc": "skills/graphql.png"
   },
   {
-    "title": "MongoDB",
+    "title": "SQL",
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "git",
+    "imageSrc": "skills/figma.png"
+  },
+  {
     "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Vue.js ",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "User Interface Design and Development",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "dart ",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Flutter",
     "imageSrc": "skills/figma.png"
   }
 ]
