@@ -17,15 +17,15 @@
   },
   {
     "title": "MS Office",
-    "imageSrc": "skills/graphql.png"
+    "imageSrc": "skills/ms.png"
   },
   {
     "title": "SQL",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "skills/sql.png"
   },
   {
     "title": "git",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/git.png"
   },
   {
     "title": "Figma",
@@ -33,18 +33,15 @@
   },
   {
     "title": "Vue.js ",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/vue.png"
   },
-  {
-    "title": "User Interface Design and Development",
-    "imageSrc": "skills/figma.png"
-  },
+ 
   {
     "title": "dart ",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/dart.png"
   },
   {
     "title": "Flutter",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/flutter.png"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "title": "Buu – OMR",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/6.png",
     "description": "Mid Term and Final Group Project",
     "skills": ["React", "Express", "Node"],
     "demo": "-",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Transfers Price Project",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/3.png",
     "description": "Internship Project IRPC Company (System Analyst),This project is a redesign of an older project to make it more modern and up-to-date.",
     "skills": ["Gathered user requirements ", "Document", "Testing", "designed UI wireframes", "mapped functional specifications"],
     "demo": "https://www.figma.com/design/EXpHpOpKIdO4XLUeKBWsBd/showcase?node-id=9-6046",
@@ -17,7 +17,7 @@
   },
   {
     "title": "i_Reconcile Project",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/4.png",
     "description": "Internship Project IRPC Company (System Analyst)",
     "skills": ["Gathered user requirements ", "Document", "Testing", "designed UI wireframes", "mapped functional specifications"],
     "demo": "https://www.figma.com/design/EXpHpOpKIdO4XLUeKBWsBd/showcase?node-id=51-8827",
@@ -25,10 +25,18 @@
   },
   {
     "title": "Open Bidding Project",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/5.png",
     "description": "Internship Project IRPC Company (System Analyst)",
     "skills": ["Gathered user requirements ", "Document", "Testing", "designed UI wireframes", "mapped functional specifications"],
     "demo": "https://www.figma.com/design/EXpHpOpKIdO4XLUeKBWsBd/showcase?node-id=50-2005",
     "source": "https://www.figma.com/design/EXpHpOpKIdO4XLUeKBWsBd/showcase?node-id=50-2005"
+  },
+  {
+    "title": "movie theater Project",
+    "imageSrc": "projects/7.png",
+    "description": "This program is a website about using the movie theater, from booking seats, buying tickets, and buying snacks.",
+    "skills": ["vuetify","Typescript","Node.js"],
+    "demo": "https://github.com/Jib-jidapa/movie-back.git",
+    "source": "https://github.com/Jib-jidapa/movie-front.git"
   }
 ]
