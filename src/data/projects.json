@@ -38,5 +38,29 @@
     "skills": ["vuetify","Typescript","Node.js"],
     "demo": "https://github.com/Jib-jidapa/movie-back.git",
     "source": "https://github.com/Jib-jidapa/movie-front.git"
+  },
+  {
+    "title": "Other documents",
+    "imageSrc": "projects/9.png",
+    "description": "certificates",
+    "skills": ["Document"],
+    "demo": "https://drive.google.com/drive/folders/1I3LowP05NZbrT6FrMNPJ5fv66nCp8cQ1?usp=drive_link",
+    "source": "https://github.com/Jib-jidapa"
+  },
+  {
+    "title": "CV",
+    "imageSrc": "projects/10.png",
+    "description": "CV",
+    "skills": ["Document"],
+    "demo": "https://drive.google.com/drive/folders/1I3LowP05NZbrT6FrMNPJ5fv66nCp8cQ1?usp=drive_link",
+    "source": "https://drive.google.com/file/d/1moBSse_lqsiPUKl7wjWOxCCHzvfuA7Za/view?usp=drive_link"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/11.png",
+    "description": "Portfolio",
+    "skills": ["Document"],
+    "demo": "https://drive.google.com/drive/folders/1I3LowP05NZbrT6FrMNPJ5fv66nCp8cQ1?usp=drive_link",
+    "source": "https://drive.google.com/file/d/1xP3GYUFCrrvtUefeMccz7hyhF-aGK2uy/view?usp=drive_link"
   }
 ]
